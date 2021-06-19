@@ -66,3 +66,4 @@ function getSig(formData) {
 }
 
 module.exports = getToken;
+
